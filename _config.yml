@@ -1,0 +1,20 @@
+title:       "GitHub Pages Repositori os212 milik Abdul Rahman"
+version:     "0001---30-Aug-2021"
+copyright:   "2021-2021"
+description: >- 
+  This Is How Me Do It!
+# baseurl: "" # e.g. /blog
+# url: ""     # e.g. http://example.com
+google_analytics: "UA-89852122-13"
+author:           "Abdul Rahman"
+address:          "Kendari"
+sitemap:          "true"
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+urlweb:           "https://abdulrahman01uiacid.github.io/os212/"
+urlcontact:       "TBS"
+urlgithub:        "https://github.com/abdulrahman01uiacidl/os212/"
+urlghpage:        "https://abdulrahman01uiacid.github.io/os212/"
+keywords:         "jekyll, testing"
+github:           [metadata]
