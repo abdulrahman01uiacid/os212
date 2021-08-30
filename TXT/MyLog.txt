@@ -1,0 +1,4 @@
+# Log Format YAYAYAYA
+# ZCZC WEEK# MINUTES LogCode Description
+# LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
+ZCZC W00  70 L02 ZOOM meetings (first meeting OS Course) related
