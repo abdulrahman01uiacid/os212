@@ -1,6 +1,6 @@
-<!-- ---
+---
 layout : "layout"
---- -->
+---
 
 
 Halo Semua :)
