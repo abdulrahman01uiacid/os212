@@ -8,4 +8,6 @@ ZCZC W00  50 L02 ZOOM meetings (pertemuan kamis)
 ZCZC W01  30 L22 Persiapan Quis (review materi) dan mengerjakan Quis
 ZCZC W01 150 L09 kerjakan Assignment 
 ZCZC W01  90 L02 ZOOM meetings (pertemuan senin)
-
+ZCZC W01  15 L02 ZOOM meetings (pertemuan kamis)
+ZCZC W01 180 L09 lanjut kerjakan Assignment 
+ZCZC W01 500 L71 bantu persiapkan dan mengurus acara di dirumah 
