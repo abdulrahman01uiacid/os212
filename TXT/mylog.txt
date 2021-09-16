@@ -11,3 +11,7 @@ ZCZC W01  90 L02 ZOOM meetings (pertemuan senin)
 ZCZC W01  15 L02 ZOOM meetings (pertemuan kamis)
 ZCZC W01 180 L09 lanjut kerjakan Assignment 
 ZCZC W01 500 L71 bantu persiapkan dan mengurus acara di dirumah 
+ZCZC W02  90 L02 ZOOM meetings (Pertemuan Senin)
+ZCZC W02 140 L09 Kerjakan Assignment (nonton video)
+ZCZC W02  60 L26 Belajar Bahasa C 
+ZCZC W02  20 L02 ZOOM meetings (Pertemuan Kamis)
