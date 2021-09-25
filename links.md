@@ -12,4 +12,12 @@ permalink: /LINKS/
    Bagi teman-teman yang belum mengenal apa itu bahasa C, mungkin bisa melihat artikel ini. Secara umum, sintaks dari Bahaca C mirip dengan bahaca C++ karena sebenarnya Bahasa C++ memang dibangun dari Bahasa C itu sendiri dengan ada tamabahan. Di artikel ini juga di ajarkan terkait cara menjalankan program C.
 
 3. [**Mengenal Struktur Dasar Bahasa C dan Aturan yang terkait Sintaks Bahasa C**](https://www.petanikode.com/c-syntak/)
-   Secara umum, sintaks pada bahasa C mirip dengan bahasa C++ atau Java. Seperti setiap sintaks diakhiri dengan semicolon (;) dan setiap blok dibatasi dengan kurung kurawal ("{}"). Selain itu, tidak seperti Java yang berbasi OOP, bahasa C berbasi Fungsi yang mana setiap program akan memiliki satu fungsi utama yaitu fungsi main(). Dibagian akhir dalam artikel ini juga terdapat link ke materi bahasa C lainnya   yang mungkin bisa bermanfaat bagi teman-teman.
+   Secara umum, sintaks pada bahasa C mirip dengan bahasa C++ atau Java. Seperti setiap sintaks diakhiri dengan semicolon (;) dan setiap blok dibatasi dengan kurung kurawal ("{}"). Selain itu, tidak seperti Java yang berbasi OOP, bahasa C berbasi Fungsi yang mana setiap program akan memiliki satu fungsi utama yaitu fungsi main(). Dibagian akhir dalam artikel ini juga terdapat link ke materi bahasa C lainnya   yang mungkin bisa bermanfaat bagi teman-teman
+
+4. [**grep command in Unix/Linux**](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+   grep command merupakan salah satu command yang biasa digunakan pada linux. Secara umum, guna grep adalah untuk mencari dalam sebuah file suatu data yang sesuai dengan pattern yang diberikan. Jika teman-teman tertarik untuk mempelajarinya, mungkin bisa mengunjungi artikel ini. Namun, teman-teman bisa juga cukup mengetikkan 'grep --help' pada CLI  untuk memperoleh penjelasan singkat terkait grep.
+
+5. [**Mengenal Perintah Dasar Grep di GNU/Linux**](https://www.linuxsec.org/2016/10/basic-grep-command.html)
+   Mirip dengan artikel diatas hanya mungkin dituliskan dengan bahasa Indonesia. Mungkin bisa menjadi solusi jika teman-teman sedikit kurang paham dengan bahasa inggris.
+
+

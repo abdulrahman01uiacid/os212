@@ -15,3 +15,7 @@ ZCZC W02  90 L02 ZOOM meetings (Pertemuan Senin)
 ZCZC W02 140 L09 Kerjakan Assignment (nonton video)
 ZCZC W02  60 L26 Belajar Bahasa C 
 ZCZC W02  20 L02 ZOOM meetings (Pertemuan Kamis)
+ZCZC W03  90 L02 ZOOM meetings (pertemuan Senin)
+ZCZC W03  45 L02 ZOOM meetings (pertemuan Kamis)
+ZCZC W03 360 L09 Kerjakan Assignments + perbaiki virtual guest
+ZCZC W03  60 L09 Lanjut Assignment (try demo week03)
