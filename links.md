@@ -20,4 +20,8 @@ permalink: /LINKS/
 5. [**Mengenal Perintah Dasar Grep di GNU/Linux**](https://www.linuxsec.org/2016/10/basic-grep-command.html)
    Mirip dengan artikel diatas hanya mungkin dituliskan dengan bahasa Indonesia. Mungkin bisa menjadi solusi jika teman-teman sedikit kurang paham dengan bahasa inggris.
 
+6. [**How to remove incorrect password for file symmetrically encrypted with GPG**](https://superuser.com/questions/1097230/how-to-remove-incorrect-password-for-file-symmetrically-encrypted-with-gpg)
+   Jika teman-teman pernah salah memasukkan password saat mengerjakan tugas W04 ini, mungkin teman-teman tidak bisa mengisi ulang password tersebut untuk sementara waktu. Hal ini serupa dengan apa yang saya alami, untuk mengatasi hal ini, saya mencoba mencari jawaban terkait dalam masalah ini. Alhasil, saya bisa kembali mengisi ulang password tersebut dengan password yang valid.
 
+7. [**Belajar Interaktif  Bahasa C**](https://www.learn-c.org/)
+   Website menyediakan berapa macam materi yang digunakan untuk mempelajari bahasa C. Selain materi, website ini juga menyediakan exercise untuk melatif kita mnmenjadi lebih paham. Sebenarnya hal ini yang dari dahulu saya butuhkan, bisa belajar interaktif bahasa C. Terima kasih [Andhira Henrisen Sikoko](https://andhi30.github.io/os212/) karena telah membagikan link yang sangat bermanfaat, kuhusunya untuk saya pribadi.
