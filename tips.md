@@ -1,9 +1,9 @@
 ---
 permalink : /TIPS/
 ---
-| [ **HOME** ](index.md) | [ **LOG** ](TXT/MyLog.txt) | [ **LINKS** ](links.md) | [ **TIPS** ]() | [ **GitHub** ](https://github.com/abdulrahman01uiacid/os212) |
-
 # TIPS
+
+| [ **HOME** ](index.md) | [ **LOG** ](TXT/MyLog.txt) | [ **LINKS** ](links.md) | [ **TIPS** ]() | [ **GitHub** ](https://github.com/abdulrahman01uiacid/os212) |
 
 Berikut mungkin beberapa tips buat teman-teman terkait mata kuliah Operating System (OS)
 

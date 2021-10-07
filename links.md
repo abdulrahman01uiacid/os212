@@ -2,6 +2,7 @@
 permalink: /LINKS/
 ---
 # LINKS
+
 | [ **HOME** ](index.md) | [ **LOG** ](TXT/MyLog.txt) | [ **LINKS** ]() | [ **TIPS** ](tips.md) | [ **GitHub** ](https://github.com/abdulrahman01uiacid/os212) |
 
 ### Berikut beberapa link yang saya sarankan
