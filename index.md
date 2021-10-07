@@ -3,7 +3,7 @@
 
 ###### Saya Abdul Rahman Mahasiswa Fasilkom UI 2020
 
-| [ **HOME** ]() | [ **LOG** ](TXT/MyLog.txt) | [ **LINKS** ](LINKS) | [**GITHUB**](https://github.com/abdulrahman01uiacid/os212) |
+| [ **HOME** ]() | [ **LOG** ](TXT/MyLog.txt) | [ **LINKS** ](LINKS) | [ **TIPS** ](tips.md) | [**GITHUB**](https://github.com/abdulrahman01uiacid/os212) |
 
 # Halo Semua :)
 

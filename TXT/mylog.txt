@@ -22,3 +22,7 @@ ZCZC W03  60 L09 Lanjut Assignment (try demo week03)
 ZCZC W04 120 L02 ZOOM meetings (pertemuan Senin + kamis)
 ZCZC W04  60 L09 Kerjakan Assignments
 ZCZC W04  50 L09 Lanjut Kerjakan Assignment (update  mylog, myrank, links, dan submit)
+ZCZC W05 110 L02 ZOOM Meetings (pertemuan Senin)
+ZCZC W05 150 L09 Kerjakan Assignments + Nonton video youtube terkait materi sekaligus tugas pada Assignment.
+ZCZC W05  30 L02 ZOOM Meetings (Pertemuan Kamis)
+ZCZC W05  60 L22 Kerjakan Quiz + Persiapan sebelum quiz
