@@ -26,3 +26,8 @@ ZCZC W05 110 L02 ZOOM Meetings (pertemuan Senin)
 ZCZC W05 150 L09 Kerjakan Assignments + Nonton video youtube terkait materi sekaligus tugas pada Assignment.
 ZCZC W05  30 L02 ZOOM Meetings (Pertemuan Kamis)
 ZCZC W05  60 L22 Kerjakan Quiz + Persiapan sebelum quiz
+ZCZC W06  90 L02 ZOOM Meetings (pertemuan Kamis)
+ZCZC W06  60 L32 Nonton video rekaman pembelajaran
+ZCZC W06  60 L22 Quiz + Persiapan sebelum quiz
+ZCZC W06  30 L09 Mengerjakan Assignment
+ZCZC W06  30 L32 Nonton Youtube terkait fungsi fork() dan exec()

@@ -36,3 +36,13 @@ permalink: /LINKS/
 
 9. [**FIFO VS OPTIMAL VS LRU**](https://www.youtube.com/watch?v=IHu-8IQ97AQ&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT&index=6)<br>
    Pada video kali ini, yang dibahasa mengenai perbadingan antara ketiga Algoritma yang telah saya sebutkan sebelumnya. Sebenarnya video ini juga sudah tercantum dalam playlist yang saya berikan diatas, namun agar teman-teman yang mungkin sudah paham namun ingin mengetahui perbedaan atau manakah yang lebih baik untuk digunakan, dapat langsung mendapatkan apayang diperlukan tanpa harus mencari lagi. Semoga dapat bermanfaat, bisa jadi pembahasan ini masuk dalam pembahasan quiz minggu depan :D.
+
+## WEEK 06
+10. [**Belajar Fork() part 1**](https://www.youtube.com/watch?v=PwxTbksJ2fo)<br>
+    Video ini menjelaskan terkait fungsi fork() ketika di jalankan. Jika teman-teman masih kurang paham terkait cara kerja fork(), video ini mungkin dapat membantu.
+
+11. [**Belajar Fork() part 2**](https://www.youtube.com/watch?v=_kUiH8DG-Ao)<br>
+    Video ini merupakan lanjutan dari video diatas. Video ini menjelaskan penmanggilan fungsi fork() yang dikaitkan dengan PID (process ID) saat menjalankan fungsi fork().
+
+12. [**Fork() Vs. Exec()**](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
+    Video ini merupakan video yang berasal dari chanel Neso Academy. Video ini menjelskan terkait perbedaaan antara fungsi fork() dan fungsi exec(). Secara umum kedua fungsi ini mirip yakni sama-sama membuat suatu proses baru. Bedanya fork() akan tetap menalankan parent nya, sedangkan exec() akan menimpa proses yang ada. Maaf kalau penejalsan saya kurang tepat :D, mungkin untuk lebih jelas teman-teman bisa menonton video ini.
