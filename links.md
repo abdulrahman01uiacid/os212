@@ -46,3 +46,13 @@ permalink: /LINKS/
 
 12. [**Fork() Vs. Exec()**](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
     Video ini merupakan video yang berasal dari chanel Neso Academy. Video ini menjelskan terkait perbedaaan antara fungsi fork() dan fungsi exec(). Secara umum kedua fungsi ini mirip yakni sama-sama membuat suatu proses baru. Bedanya fork() akan tetap menalankan parent nya, sedangkan exec() akan menimpa proses yang ada. Maaf kalau penejalsan saya kurang tepat :D, mungkin untuk lebih jelas teman-teman bisa menonton video ini.
+
+## WEEK 07
+13. [**Introduction to Threads**](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
+    Week ini kita belajar tentang threads. Sekilas threads ini mirip dengan materi week06 yaitu memengeani fork. Kedua materi ini membahas hal yang sama yakni mengenai proses yang concurent. Video diatas cukup jelas menjelaskan mengenai threads dan alasan serta manfaat menggunakan threads dalam Operating System. Sebagai saran, jika kalian merasa videonya terlalu lambat, mungkiin speed x1.5 cukup untuk mengatsinya, namun jika masih diarasa kurang mungkin bisa dicepatkan lagi tapi mungkin akan sulit memahami penjelasannya :D.
+
+14. [**Process Management (Processes and Threads)**](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
+    Video ini mejelaskan mengenai manajemen proses pada sistem operasi. Selain itu dalam video ini dijelaskan juga cara untuk mengetahui proses apa saja yang sedang berjalan dalam computer kita beserta therads (Windows). Sama seperti video sebelumnya, mmungkin speednya bisa dinaikan x1.5 biar tidak kelamaan :D.
+
+15. [**Programming with Threads | Jacob Sorber**](https://www.youtube.com/watch?v=uA8X5zNOGw8&list=PL9IEJIKnBJjFZxuqyJ9JqVYmuFZHr7CFM)<br>
+    Link ini merupakan playlist yang berisi video penjelasan mengani threads pada C Programing. Video yang dibawakan cukup singkat, maksudnya tiap video punya durasi yang cukup singkat namun penya pembahasan yang cukup komprehensif terkait topik yang dibahas.  

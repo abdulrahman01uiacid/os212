@@ -31,3 +31,9 @@ ZCZC W06  60 L32 Nonton video rekaman pembelajaran
 ZCZC W06  60 L22 Quiz + Persiapan sebelum quiz
 ZCZC W06  30 L09 Mengerjakan Assignment
 ZCZC W06  30 L32 Nonton Youtube terkait fungsi fork() dan exec()
+ZCZC W07  40 L22 Quiz + Pwesiapan sebelum quiz
+ZCZC W07 100 L32 Kelas asinkron, nonton pembahasan wekk07 oleh Pak Anwar
+ZCZC W07  70 L02 ZOOM Meetings (Pertemuan kamis)
+ZCZC W07  30 L32 Nonton video terkait threads dan procces
+ZCZC W07  50 L09 Mengerjakan Assignment
+ZCZC W07  15 L25 Linux CLI, testing script and modified script
