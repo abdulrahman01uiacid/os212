@@ -7,52 +7,59 @@ permalink: /LINKS/
 
 ### Berikut beberapa link yang saya sarankan
 1. [**Creating a GitHub Pages site**](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)<br>
-   Buat teman-teman yang kesulitan untuk membuat GitHub pages, mungkin bisa berkunjung ke dokumentasi resmi dari GitHub sendiri terkait pembuatan GitHub Page.
+   For friends who have difficulty creating GitHub pages, maybe you can visit the official documentation from GitHub itself regarding the creation of GitHub Pages.
 
 ## WEEK 02
-2. [**Mengenal Bahasa C**](https://www.petanikode.com/c-linux/)<br>
-   Bagi teman-teman yang belum mengenal apa itu bahasa C, mungkin bisa melihat artikel ini. Secara umum, sintaks dari Bahaca C mirip dengan bahaca C++ karena sebenarnya Bahasa C++ memang dibangun dari Bahasa C itu sendiri dengan ada tamabahan. Di artikel ini juga di ajarkan terkait cara menjalankan program C.
+2. [**Learn C Language (in bahasa)**](https://www.petanikode.com/c-linux/)<br>
+   For those of you who don't know what C language is, maybe you can take a look at this article. In general, the syntax of the C language is similar to the C++ language because the C++ language is actually built from the C language itself with additions. This article also teaches about how to run a C program.
 
-3. [**Mengenal Struktur Dasar Bahasa C dan Aturan yang terkait Sintaks Bahasa C**](https://www.petanikode.com/c-syntak/)<br>
-   Secara umum, sintaks pada bahasa C mirip dengan bahasa C++ atau Java. Seperti setiap sintaks diakhiri dengan semicolon (;) dan setiap blok dibatasi dengan kurung kurawal ("{}"). Selain itu, tidak seperti Java yang berbasi OOP, bahasa C berbasi Fungsi yang mana setiap program akan memiliki satu fungsi utama yaitu fungsi main(). Dibagian akhir dalam artikel ini juga terdapat link ke materi bahasa C lainnya   yang mungkin bisa bermanfaat bagi teman-teman
+3. [**C Language Basic Structure and Related Rules C Language Syntax**](https://www.petanikode.com/c-syntak/)<br>
+   In general, the syntax of the C language is similar to that of C++ or Java. Like every syntax ends with a semicolon (;) and each block is delimited by curly braces ("{}"). In addition, unlike Java, which is based on OOP, the C language is Function-based where each program will have one main function, the main() function. At the end of this article there are also links to other C language materials that may be useful for friends.
 
 ## WEEK 03
 4. [**grep command in Unix/Linux**](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)<br>
-   grep command merupakan salah satu command yang biasa digunakan pada linux. Secara umum, guna grep adalah untuk mencari dalam sebuah file suatu data yang sesuai dengan pattern yang diberikan. Jika teman-teman tertarik untuk mempelajarinya, mungkin bisa mengunjungi artikel ini. Namun, teman-teman bisa juga cukup mengetikkan 'grep --help' pada CLI  untuk memperoleh penjelasan singkat terkait grep.
+   grep command is one of the most commonly used commands on linux. In general, the purpose of grep is to search in a file for data that matches a given pattern. If friends are interested in learning it, maybe you can visit this article. However, you can also simply type 'grep --help' in the CLI to get a brief explanation of grep.
 
-5. [**Mengenal Perintah Dasar Grep di GNU/Linux**](https://www.linuxsec.org/2016/10/basic-grep-command.html)<br>
-   Mirip dengan artikel diatas hanya mungkin dituliskan dengan bahasa Indonesia. Mungkin bisa menjadi solusi jika teman-teman sedikit kurang paham dengan bahasa inggris.
+5. [**Getting to Know the Basic Grep Commands on GNU/Linux**](https://www.linuxsec.org/2016/10/basic-grep-command.html)<br>
+   Similar to the article above, it may only be written in Indonesian. Maybe it can be a solution if friends are a little less familiar with English.
 
 ## WEEK 04
 6. [**How to remove incorrect password for file symmetrically encrypted with GPG**](https://superuser.com/questions/1097230/how-to-remove-incorrect-password-for-file-symmetrically-encrypted-with-gpg)<br>
-   Jika teman-teman pernah salah memasukkan password saat mengerjakan tugas W04 ini, mungkin teman-teman tidak bisa mengisi ulang password tersebut untuk sementara waktu. Hal ini serupa dengan apa yang saya alami, untuk mengatasi hal ini, saya mencoba mencari jawaban terkait dalam masalah ini. Alhasil, saya bisa kembali mengisi ulang password tersebut dengan password yang valid.
+   If you have entered the wrong password while working on this W04 task, you may not be able to re-enter the password for a while. This is similar to what I experienced, to solve this, I tried to find a related answer in this problem. As a result, I can re-enter the password with a valid password.
 
-7. [**Belajar Interaktif  Bahasa C**](https://www.learn-c.org/)<br>
-   Website menyediakan berapa macam materi yang digunakan untuk mempelajari bahasa C. Selain materi, website ini juga menyediakan exercise untuk melatif kita mnmenjadi lebih paham. Sebenarnya hal ini yang dari dahulu saya butuhkan, bisa belajar interaktif bahasa C. Terima kasih [Andhira Henrisen Sikoko](https://andhi30.github.io/os212/) karena telah membagikan link yang sangat bermanfaat, kuhusunya untuk saya pribadi.
+7. [**Interactive Learning C Bahasa**](https://www.learn-c.org/)<br>
+   The website provides how many kinds of materials are used to learn C language. In addition to the material, this website also provides exercises to make us more understanding. Actually, this is what I have always needed, to be able to learn interactive C language. Thank you [Andhira Henrisen Sikoko](https://andhi30.github.io/os212/) for sharing a very useful link, especially for me personally.
 
 ## WEEK 05
-8. [**Belajar mengenai memory replacement**](https://www.youtube.com/watch?v=WCky3aQMaPA&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT)<br>
-   Minggu ini kita mempelahari bahasan tentang memori. Salah satu yang dibahasa yakni menegani Page Faults. Secara umum page faults timbul akibat kebutuhan suatu physical memory (misalnya RAM) akan sautu page namun page tersebut tidak ada dalam frame dari memry saat itu. Ada beberap algoritma yang digunakan untuk melakukan hal ini. Contohnya First In Frist Out (FIFO), Least Recently Used (LRU) dan Page Replacement Optimal. Link saya bagikan [ini](https://www.youtube.com/watch?v=WCky3aQMaPA&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT) merupakan playlist yang dapat membantu teman-teman sekalian untuk memahami ketiga algortima ini. Selain itu, pembahasan dalam video tersebut dalam bahasa Indonesia dan sangat mudah untuk diapahami.
+8. [**Learn about memory replacement (in bahsan)**](https://www.youtube.com/watch?v=WCky3aQMaPA&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT)<br>
+   This week we are studying about memory. One of the topics discussed is dealing with Page Faults. In general, page faults arise due to the need for physical memory (eg RAM) for a page but the page is not in the frame of memory at that time. There are several algorithms used to do this. For example First In Frist Out (FIFO), Least Recently Used (LRU) and Optimal Page Replacement. The link I shared [this](https://www.youtube.com/watch?v=WCky3aQMaPA&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT) is a playlist that can help all of you to understand these three algorithms. In addition, the discussion in the video is in Indonesian and is very easy to understand.
 
 9. [**FIFO VS OPTIMAL VS LRU**](https://www.youtube.com/watch?v=IHu-8IQ97AQ&list=PL21TusoIkLo8nLC2wdibOhhYwrdXWnulT&index=6)<br>
-   Pada video kali ini, yang dibahasa mengenai perbadingan antara ketiga Algoritma yang telah saya sebutkan sebelumnya. Sebenarnya video ini juga sudah tercantum dalam playlist yang saya berikan diatas, namun agar teman-teman yang mungkin sudah paham namun ingin mengetahui perbedaan atau manakah yang lebih baik untuk digunakan, dapat langsung mendapatkan apayang diperlukan tanpa harus mencari lagi. Semoga dapat bermanfaat, bisa jadi pembahasan ini masuk dalam pembahasan quiz minggu depan :D.
+   In this video, we discuss the comparison between the three algorithms that I mentioned earlier. Actually, this video has also been listed in the playlist that I provided above, but so that friends who may already understand but want to know the difference or which one is better to use, can immediately get what they need without having to search again. Hopefully it can be useful, this discussion could be included in the discussion of next week's quiz :D.
 
 ## WEEK 06
-10. [**Belajar Fork() part 1**](https://www.youtube.com/watch?v=PwxTbksJ2fo)<br>
-    Video ini menjelaskan terkait fungsi fork() ketika di jalankan. Jika teman-teman masih kurang paham terkait cara kerja fork(), video ini mungkin dapat membantu.
+10. [**Learn Fork() part 1**](https://www.youtube.com/watch?v=PwxTbksJ2fo)<br>
+    This video explains how the fork() function is executed. If you still don't understand how fork() works, this video might help.
 
-11. [**Belajar Fork() part 2**](https://www.youtube.com/watch?v=_kUiH8DG-Ao)<br>
-    Video ini merupakan lanjutan dari video diatas. Video ini menjelaskan penmanggilan fungsi fork() yang dikaitkan dengan PID (process ID) saat menjalankan fungsi fork().
+11. [**Learn Fork() part 2**](https://www.youtube.com/watch?v=_kUiH8DG-Ao)<br>
+    This video is a continuation of the video above. This video describes calling the fork() function associated with the PID (process ID) when executing the fork() function.
 
 12. [**Fork() Vs. Exec()**](https://www.youtube.com/watch?v=IFEFVXvjiHY)<br>
-    Video ini merupakan video yang berasal dari chanel Neso Academy. Video ini menjelskan terkait perbedaaan antara fungsi fork() dan fungsi exec(). Secara umum kedua fungsi ini mirip yakni sama-sama membuat suatu proses baru. Bedanya fork() akan tetap menalankan parent nya, sedangkan exec() akan menimpa proses yang ada. Maaf kalau penejalsan saya kurang tepat :D, mungkin untuk lebih jelas teman-teman bisa menonton video ini.
+    This video is a video from the Neso Academy channel. This video explains the difference between the fork() function and the exec() function. In general, these two functions are similar in that they both create a new process. The difference is that fork() will continue to run its parent, while exec() will overwrite the existing process. Sorry if my explanation is not quite right :D, maybe for clarity, friends, you can watch this video.
 
 ## WEEK 07
 13. [**Introduction to Threads**](https://www.youtube.com/watch?v=LOfGJcVnvAk)<br>
-    Week ini kita belajar tentang threads. Sekilas threads ini mirip dengan materi week06 yaitu memengeani fork. Kedua materi ini membahas hal yang sama yakni mengenai proses yang concurent. Video diatas cukup jelas menjelaskan mengenai threads dan alasan serta manfaat menggunakan threads dalam Operating System. Sebagai saran, jika kalian merasa videonya terlalu lambat, mungkiin speed x1.5 cukup untuk mengatsinya, namun jika masih diarasa kurang mungkin bisa dicepatkan lagi tapi mungkin akan sulit memahami penjelasannya :D.
+    This week we learn about threads. At first glance, these threads are similar to the week06 material, namely dealing with forks. Both of these materials discuss the same thing, namely the concurrent process. The video above is quite clear about threads and the reasons and benefits of using threads in the Operating System. As a suggestion, if you feel the video is too slow, maybe x1.5 speed is enough to overcome it, but if it's still not enough, maybe you can speed it up again but it might be difficult to understand the explanation :D.
 
 14. [**Process Management (Processes and Threads)**](https://www.youtube.com/watch?v=OrM7nZcxXZU)<br>
-    Video ini mejelaskan mengenai manajemen proses pada sistem operasi. Selain itu dalam video ini dijelaskan juga cara untuk mengetahui proses apa saja yang sedang berjalan dalam computer kita beserta therads (Windows). Sama seperti video sebelumnya, mmungkin speednya bisa dinaikan x1.5 biar tidak kelamaan :D.
+    This video explains about process management in operating systems. In addition, this video also explains how to find out what processes are running on our computer along with therads (Windows). Just like the previous video, maybe the speed can be increased by x1.5 so it doesn't take too long :D.
 
 15. [**Programming with Threads | Jacob Sorber**](https://www.youtube.com/watch?v=uA8X5zNOGw8&list=PL9IEJIKnBJjFZxuqyJ9JqVYmuFZHr7CFM)<br>
-    Link ini merupakan playlist yang berisi video penjelasan mengani threads pada C Programing. Video yang dibawakan cukup singkat, maksudnya tiap video punya durasi yang cukup singkat namun penya pembahasan yang cukup komprehensif terkait topik yang dibahas.  
+    This link is a playlist containing an explanation video on threads on C Programing. The videos presented are quite short, meaning that each video has a fairly short duration but has a fairly comprehensive discussion regarding the topics discussed.
+
+## WEEK 08
+16.  [**Neso Academey | CPU Scheduling**](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)<br>
+    This link contains a playlist created by Chanel Neso Acdemy about CPU scheduling in the operating system. Maybe this playalist can be useful for friends to understand material related to cpu scheduling and can be used as material for quiz preparations
+
+17. [**Kemotex | LFS Book Ch05 : Compiling a Cross-Toolchain - LFS 11.0 on iMac ](https://www.youtube.com/watch?v=xVKFOJQOFWE&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=8)<br>
+    This link contains a playlist about installing LFS (Linux From Scratch). Specifically, this link will refer to playlist number 8 to be precise regarding Chapter 5 of the LFS book which is related to "Compiling a Cross-Toolchain". This video really helped me to complete assignments W08 #05. Especially to avoid errors when installing and compiling.

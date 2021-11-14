@@ -2,38 +2,44 @@
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00  70 L02 ZOOM meetings (first meeting OS Course) related
-ZCZC W00  10 L03 buat akun GitHub
-ZCZC W00  60 L04 Buat github page
+ZCZC W00  10 L03 create GitHub account
+ZCZC W00  60 L04 create github page
 ZCZC W00  50 L02 ZOOM meetings (pertemuan kamis)
-ZCZC W01  30 L22 Persiapan Quis (review materi) dan mengerjakan Quis
-ZCZC W01 150 L09 kerjakan Assignment 
-ZCZC W01  90 L02 ZOOM meetings (pertemuan senin)
-ZCZC W01  15 L02 ZOOM meetings (pertemuan kamis)
-ZCZC W01 180 L09 lanjut kerjakan Assignment 
-ZCZC W01 500 L71 bantu persiapkan dan mengurus acara di dirumah 
-ZCZC W02  90 L02 ZOOM meetings (Pertemuan Senin)
-ZCZC W02 140 L09 Kerjakan Assignment (nonton video)
-ZCZC W02  60 L26 Belajar Bahasa C 
-ZCZC W02  20 L02 ZOOM meetings (Pertemuan Kamis)
-ZCZC W03  90 L02 ZOOM meetings (pertemuan Senin)
-ZCZC W03  45 L02 ZOOM meetings (pertemuan Kamis)
-ZCZC W03 360 L09 Kerjakan Assignments + perbaiki virtual guest
-ZCZC W03  60 L09 Lanjut Assignment (try demo week03)
-ZCZC W04 120 L02 ZOOM meetings (pertemuan Senin + kamis)
-ZCZC W04  60 L09 Kerjakan Assignments
-ZCZC W04  50 L09 Lanjut Kerjakan Assignment (update  mylog, myrank, links, dan submit)
-ZCZC W05 110 L02 ZOOM Meetings (pertemuan Senin)
-ZCZC W05 150 L09 Kerjakan Assignments + Nonton video youtube terkait materi sekaligus tugas pada Assignment.
-ZCZC W05  30 L02 ZOOM Meetings (Pertemuan Kamis)
-ZCZC W05  60 L22 Kerjakan Quiz + Persiapan sebelum quiz
-ZCZC W06  90 L02 ZOOM Meetings (pertemuan Kamis)
-ZCZC W06  60 L32 Nonton video rekaman pembelajaran
-ZCZC W06  60 L22 Quiz + Persiapan sebelum quiz
-ZCZC W06  30 L09 Mengerjakan Assignment
-ZCZC W06  30 L32 Nonton Youtube terkait fungsi fork() dan exec()
-ZCZC W07  40 L22 Quiz + Pwesiapan sebelum quiz
-ZCZC W07 100 L32 Kelas asinkron, nonton pembahasan wekk07 oleh Pak Anwar
-ZCZC W07  70 L02 ZOOM Meetings (Pertemuan kamis)
-ZCZC W07  30 L32 Nonton video terkait threads dan procces
-ZCZC W07  50 L09 Mengerjakan Assignment
+ZCZC W01  30 L22 quiz preparation (reviewing material) and do the Quiz
+ZCZC W01 150 L09 do Assignment 
+ZCZC W01  90 L02 ZOOM meetings (Monday meeting)
+ZCZC W01  15 L02 ZOOM meetings (thursday meeting)
+ZCZC W01 180 L09 continue working on the assignment 
+ZCZC W01 500 L71 help prepare and manage events at home
+ZCZC W02  90 L02 ZOOM meetings (Monday meeting)
+ZCZC W02 140 L09 do Assignment (watch  video)
+ZCZC W02  60 L26 Learn C language 
+ZCZC W02  20 L02 ZOOM meetings (thursday meeting)
+ZCZC W03  90 L02 ZOOM meetings (Monday meeting)
+ZCZC W03  45 L02 ZOOM meetings (thursday meeting)
+ZCZC W03 360 L09 Do Assignments + fix virtual guest
+ZCZC W03  60 L09 Continue Assignment (try week03's demos)
+ZCZC W04 120 L02 ZOOM meetings (Monday + Thursday meeting)
+ZCZC W04  60 L09 Do Assignments
+ZCZC W04  50 L09 Continue with the Assignment (update  mylog, myrank, links, and submit)
+ZCZC W05 110 L02 ZOOM Meetings (Monday meeting)
+ZCZC W05 150 L09 Do Assignments + Watch youtube videos related to materials as well as assignments on Assignment.
+ZCZC W05  30 L02 ZOOM Meetings (thursday meeting)
+ZCZC W05  60 L22 Do Quiz + Preparation before quiz
+ZCZC W06  90 L02 ZOOM Meetings (thursday meeting)
+ZCZC W06  60 L32 Watch learning video recordings
+ZCZC W06  60 L22 Quiz + Preparation before quiz
+ZCZC W06  30 L09 Do Assignment
+ZCZC W06  30 L32 Watch Youtube related to fork() and exec() functions
+ZCZC W07  40 L22 Quiz + Preparation before quiz
+ZCZC W07 100 L32 Asynchronous class, watch the discussion of wekk07 by Mr. Anwar
+ZCZC W07  70 L02 ZOOM Meetings (thursday meeting)
+ZCZC W07  30 L32 Watch videos related to threads and processes
+ZCZC W07  50 L09 Do Assignment
 ZCZC W07  15 L25 Linux CLI, testing script and modified script
+ZCZC W08  50 L22 Quiz + preparation before quiz
+ZCZC W08  50 L32 asynchronous class and watch discussion about multilevel queue scheduling on youtube
+ZCZC W08  80 L02 ZOOM Meetings (thursday meeting)
+ZCZC W08 250 L09 do assignments and repairing my virtual guest for preparation and installing lfs
+ZCZC W08 180 L15 do assignments #05 (chapter 5, Compiling a Cross-Toolchain) + watch video about how to do it on youtube.
+ZCZC W08  60 L09 Continue with the Assignment (update  mylog, myrank, links, and submit)
