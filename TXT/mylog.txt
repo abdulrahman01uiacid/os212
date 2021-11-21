@@ -43,3 +43,7 @@ ZCZC W08  80 L02 ZOOM Meetings (thursday meeting)
 ZCZC W08 250 L09 do assignments and repairing my virtual guest for preparation and installing lfs
 ZCZC W08 180 L15 do assignments #05 (chapter 5, Compiling a Cross-Toolchain) + watch video about how to do it on youtube.
 ZCZC W08  60 L09 Continue with the Assignment (update  mylog, myrank, links, and submit)
+ZCZC W09  50 L22 Quiz + preparation before quiz
+ZCZC W09  60 L32 asynchronous class about disk management and step by step booting in linux operating system
+ZCZC W09 550 L14 do assignments #04 (Linux From Scratch 11.0 part 2) + retrying intalling, import/export backup virtual guest because error while intalling (import)  and avoid error while installing (export) + watch video about how to do it on youtube.
+ZCZC W09  40 L09 Continue with the Assignment (update  mylog, myrank, links, tips, and submit)

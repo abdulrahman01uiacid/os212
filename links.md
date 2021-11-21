@@ -58,8 +58,17 @@ permalink: /LINKS/
     This link is a playlist containing an explanation video on threads on C Programing. The videos presented are quite short, meaning that each video has a fairly short duration but has a fairly comprehensive discussion regarding the topics discussed.
 
 ## WEEK 08
-16.  [**Neso Academey | CPU Scheduling**](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)<br>
+16. [**Neso Academey | CPU Scheduling**](https://www.youtube.com/watch?v=EWkQl0n0w5M&list=PLBlnK6fEyqRitWSE_AyyySWfhRgyA-rHk)<br>
     This link contains a playlist created by Chanel Neso Acdemy about CPU scheduling in the operating system. Maybe this playalist can be useful for friends to understand material related to cpu scheduling and can be used as material for quiz preparations
 
 17. [**Kemotex | LFS Book Ch05 : Compiling a Cross-Toolchain - LFS 11.0 on iMac ](https://www.youtube.com/watch?v=xVKFOJQOFWE&list=PLyc5xVO2uDsDK5_zewRXYOZA0cyjwcboE&index=8)<br>
     This link contains a playlist about installing LFS (Linux From Scratch). Specifically, this link will refer to playlist number 8 to be precise regarding Chapter 5 of the LFS book which is related to "Compiling a Cross-Toolchain". This video really helped me to complete assignments W08 #05. Especially to avoid errors when installing and compiling.
+
+## WEEK 09
+18. [**Kemotex | LFS Book Ch06 : Cross Compiling Temporary Tools - LFS 11.0 on iMac](https://www.youtube.com/watch?v=Mbct6F1xwpE) | [**Kemotex | LFS Book Ch07 : Entering Chroot and Building Additional Tools - LFS 11.0 on iMac](https://www.youtube.com/watch?v=rVj1xtWOtDs)<br>
+    Like the previous week, we continue with the installation of LFS (Linux From Scratch). This link contains a step-by-step explanation of how to run the commands in the LFS ch06 and ch07 books, namely "Cross Compiling Temporary Tools" and "Entering Chroot and Building Additional Tools". Especially for the ch07, this video provides some modifications to the command when running it.
+
+19. [**Disk Management**](https://www.youtube.com/watch?v=ZjMwUhapSEM&list=PLGbtq_0KHpRIWsBcVFbeGY8FRLqLsHIMQ)<br>
+    this link contains an explanation regarding disk management. This includes disk scheduling algorithms.
+
+
