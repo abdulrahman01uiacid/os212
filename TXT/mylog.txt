@@ -48,3 +48,7 @@ ZCZC W09  60 L32 asynchronous class about disk management and step by step booti
 ZCZC W09 550 L14 do assignments #04 (Linux From Scratch 11.0 part 2) + retrying intalling, import/export backup virtual guest because error while intalling (import)  and avoid error while installing (export) + watch video about how to do it on youtube.
 ZCZC W09  40 L09 Continue with the Assignment (update  mylog, myrank, links, tips, and submit)
 ZCZC W09   5 L09 modify the result for week09 in RESULT/W09 folder 
+ZCZC W10  50 L22 Quiz + preparation before quiz
+ZCZC W10  30 L32 asynchronous class 
+ZCZC W09 1020 L09 do assignments 
+

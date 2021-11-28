@@ -71,4 +71,6 @@ permalink: /LINKS/
 19. [**Disk Management**](https://www.youtube.com/watch?v=ZjMwUhapSEM&list=PLGbtq_0KHpRIWsBcVFbeGY8FRLqLsHIMQ)<br>
     this link contains an explanation regarding disk management. This includes disk scheduling algorithms.
 
-
+## WEEK 10
+20. [**FIX Unable to run Expect " no more ptys. " as normal user**](https://serverfault.com/questions/891921/unable-to-run-expect-no-more-ptys-as-normal-user)
+    this link was quite helpful for me when I was having problems getting the error "...no more ptys..."
